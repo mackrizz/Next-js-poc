@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import Link from "next/link";
-import Nevbar from "../.next/component/Nevbar";
+import Nevbar from "../pages/component/Nevbar";
 import { useRouter } from "next/router";
 
 const ErrorPage = () => {
